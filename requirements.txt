@@ -1,0 +1,12 @@
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.21.0
+tqdm>=4.62.0
+pandas>=1.3.0
+einops>=0.6.0        
+openai>=0.27.0         
+flash-attn>=2.0.0      
+scikit-learn>=1.1.0   
+scipy>=1.8.0          
+gzip
+json
