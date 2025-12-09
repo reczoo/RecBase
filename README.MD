@@ -1,5 +1,7 @@
 This repository contains the  implementation of our paper:
-**RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation**.
+
+
+##RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation**.
 
 ---
 
